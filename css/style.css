@@ -1,0 +1,47 @@
+body {
+    background: linear-gradient(120deg,#00a7ff, #00ff21);
+    margin: 10;
+    padding: 0;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family: 'MV Boli';
+    font-size: 45px;
+    user-select: none;
+}
+h2 {
+    color: white;
+    text-align: center;
+    font-family: 'MV Boli';
+    font-size: 30px;
+    user-select: none;
+}
+p {
+    color: white;
+    text-align: left;
+    font-family: 'MV Boli';
+    font-size: 29px;
+    user-select: none;
+}
+p2 {
+    color: white;
+    text-align: left;
+    font-family: 'MV Boli';
+    font-size: 29px;
+    user-select: none;
+}
+p3 {
+    color: white;
+    text-align: left;
+    font-family: 'MV Boli';
+    font-size: 29px;
+    user-select: none;
+}
+h3 {
+    color: white;
+    text-align: center;
+    font-family: 'MV Boli';
+    font-size: 30px;
+    user-select: none;
+}
